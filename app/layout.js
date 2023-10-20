@@ -1,7 +1,5 @@
-import './globals.css'
-import { Inter } from 'next/font/google'
-
-const inter = Inter({ subsets: ['latin'] })
+import "../styles/global.css";
+import { NavBar } from "./components/navbar";
 
 export const metadata = {
   title: 'Certificates',
@@ -14,7 +12,10 @@ export default function RootLayout({ children }) {
       <head>
         <link rel="icon" href="/hacker.png" />
       </head>
-      <body className={inter.className}>{children}</body>
+      <body>
+        <NavBar/>
+        {children}
+      </body>
     </html>
   )
 }
