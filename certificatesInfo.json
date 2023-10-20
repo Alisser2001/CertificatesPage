@@ -1,1 +1,170 @@
-[]
+[
+  {
+    "name": "Cisco - Aspectos básicos de las redes.pdf",
+    "relevance": ""
+  },
+  {
+    "name": "Cisco - Introducción a la ciberseguridad.pdf",
+    "relevance": ""
+  },
+  {
+    "name": "Cisco - PCAP - Programming Certificate Python Essentials.pdf",
+    "relevance": ""
+  },
+  {
+    "name": "FreeCodeCamp - Algoritmos en JavaScript y estructuras de datos.pdf",
+    "relevance": ""
+  },
+  {
+    "name": "FreeCodeCamp - Desarrollo web responsive.pdf",
+    "relevance": ""
+  },
+  {
+    "name": "Microsoft - Aplicaciones Web con Blazor.pdf",
+    "relevance": ""
+  },
+  {
+    "name": "Microsoft - Aplicaciones y servicios web con ASP.NET Core, API mínima y .NET.pdf",
+    "relevance": ""
+  },
+  {
+    "name": "Microsoft - Aspectos básicos de Azure Cosmos DB.pdf",
+    "relevance": ""
+  },
+  {
+    "name": "Microsoft - Aspectos básicos de la accesibilidad web.pdf",
+    "relevance": ""
+  },
+  {
+    "name": "Microsoft - Aspectos Básicos de los Datos con Microsoft Azure.pdf",
+    "relevance": ""
+  },
+  {
+    "name": "Microsoft - Azure Storage para datos no relacionales.pdf",
+    "relevance": ""
+  },
+  {
+    "name": "Microsoft - Compilación de API web mínima en ASP.NET Core.pdf",
+    "relevance": ""
+  },
+  {
+    "name": "Microsoft - Compilación de Aplicaciones JavaScript con TypeScript.pdf",
+    "relevance": ""
+  },
+  {
+    "name": "Microsoft - Compilación de Aplicaciones Web ASP.NET para Principiantes.pdf",
+    "relevance": ""
+  },
+  {
+    "name": "Microsoft - Conceptos fundamentales de datos relacionales.pdf",
+    "relevance": ""
+  },
+  {
+    "name": "Microsoft - Consumo de bases de datos mediante Entity Framework Core.pdf",
+    "relevance": ""
+  },
+  {
+    "name": "Microsoft - Creación de API web con controladores ASP.NET Core.pdf",
+    "relevance": ""
+  },
+  {
+    "name": "Microsoft - Creación de Aplicaciones en .NET con C#.pdf",
+    "relevance": ""
+  },
+  {
+    "name": "Microsoft - Creación de Aplicaciones Full Stack con React y ASP.NET Core.pdf",
+    "relevance": ""
+  },
+  {
+    "name": "Microsoft - Creación de aplicaciones web con Blazor.pdf",
+    "relevance": ""
+  },
+  {
+    "name": "Microsoft - Creación de Aplicaciones Web y Servicios con ASP.NET Core y API Mínima.pdf",
+    "relevance": ""
+  },
+  {
+    "name": "Microsoft - Creación de microservicios en .NET y ASP.NET.pdf",
+    "relevance": ""
+  },
+  {
+    "name": "Microsoft - Creación de microservicios en .NET.pdf",
+    "relevance": ""
+  },
+  {
+    "name": "Microsoft - Creación de videojuego en Blazor.pdf",
+    "relevance": ""
+  },
+  {
+    "name": "Microsoft - Exploración de roles y servicios de los datos.pdf",
+    "relevance": ""
+  },
+  {
+    "name": "Microsoft - Externalización de configuración con instancia de Azure Key Vault.pdf",
+    "relevance": ""
+  },
+  {
+    "name": "Microsoft - Manejo de datos no relacionales en Azure.pdf",
+    "relevance": ""
+  },
+  {
+    "name": "Microsoft - Manejo de datos relacionales en Azure.pdf",
+    "relevance": ""
+  },
+  {
+    "name": "Microsoft - Microservicio de .NET en Kubernetes.pdf",
+    "relevance": ""
+  },
+  {
+    "name": "Microsoft - Microservicios con ASP.NET Core y .NET.pdf",
+    "relevance": ""
+  },
+  {
+    "name": "Microsoft - Migración de una Aplicación de ASP.NET a Azure con Visual Studio.pdf",
+    "relevance": ""
+  },
+  {
+    "name": "Microsoft - Publicación de aplicaciones web en Azure con VS.pdf",
+    "relevance": ""
+  },
+  {
+    "name": "Microsoft - Servicios de bases de datos relacionales en Azure.pdf",
+    "relevance": ""
+  },
+  {
+    "name": "Oracle - Fundamentos de Java.pdf",
+    "relevance": ""
+  },
+  {
+    "name": "SENA - Acta Técnico en Sistemas.pdf",
+    "relevance": ""
+  },
+  {
+    "name": "SENA - Certificado Técnico en sistemas.pdf",
+    "relevance": ""
+  },
+  {
+    "name": "SENA - Titulo Técnico en Sistemas.pdf",
+    "relevance": ""
+  },
+  {
+    "name": "SoyHenry - Full Stack Web Developer.pdf",
+    "relevance": ""
+  },
+  {
+    "name": "TodoCode - Bases de datos con MySQL.pdf",
+    "relevance": ""
+  },
+  {
+    "name": "TodoCode - Manejo de Git - GitHub.pdf",
+    "relevance": ""
+  },
+  {
+    "name": "UNAL - Desarrollo web con Html.pdf",
+    "relevance": ""
+  },
+  {
+    "name": "UNAL - Programación en Python.pdf",
+    "relevance": ""
+  }
+]
