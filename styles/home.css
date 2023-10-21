@@ -13,6 +13,9 @@
 }
 
 .home {
+    position: relative;
+    width: 100vw;
+    top: 30vh;
     margin: 0;
     padding: 0;
     outline: 0;
@@ -21,6 +24,42 @@
     background-color: #161616;
     height: 75vh;
     max-height: 75vh;
+}
+
+.home>ul{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 0;
+}
+
+.home>ul>li{
+    width: 25%;
+    height: 30vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.home>ul>li>a{
+    display: inline-block;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    text-decoration: none;
+    width: 80%;
+    font-size: 1.5em;
+    color: white;
+}
+
+.home>ul>li>a:hover{
+    transform: scale(1.1);
 }
 
 @media(max-width: 900px) {
