@@ -23,14 +23,11 @@ fs.readdir(pdfPath, (err, files) => {
             savePath: outputFolder,
             format: 'png',
             width: 600,
-            height: 600
+            height: 400
         };
         const convert = fromPath(`${pdfPath}/${file}`, options);
 
         convert(1)
-            .then((resolve) => {
-                console.log(`${file} se ha convertido como imagen`);
-            })
             .catch((error) => {
                 console.error(`Error al convertir ${file} a imagen: ${error}`);
             });
