@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 
 const directoryPath = './public/assets/';
-const outputFile = 'certificatesInfo.json';
+const outputFile = './certificatesInfo.json';
 const imageFormat = 'jpg';
 
 if (fs.existsSync(outputFile)) {
