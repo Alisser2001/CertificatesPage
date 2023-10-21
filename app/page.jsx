@@ -11,13 +11,15 @@ export default function Home() {
         {certificatesInfo.map((c, i) => {
           return (
             <li key={i}>
-              <Image
-                src="/item.png"
-                width="150"
-                height="150"
-                alt={c.name}
-              />
-              <Link href={`viewpdf/${c.name}`}>{c.name}</Link>
+              <Link href={`viewpdf/${c.name}`}>
+                <Image
+                  src={`/miniatures/${c.name}.1.png`}
+                  width="150"
+                  height="150"
+                  alt={c.name}
+                />
+                <span>{c.name}</span>
+              </Link>
             </li>
           )
         })}
