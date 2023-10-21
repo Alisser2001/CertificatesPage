@@ -8,9 +8,9 @@ export default function Home() {
   return (
     <main className="home">
       <ul>
-        {certificatesInfo.map((c) => {
+        {certificatesInfo.map((c, i) => {
           return (
-            <li>
+            <li key={i}>
               <Image
                 src="/item.png"
                 width="150"
