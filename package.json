@@ -3,12 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "npm run nmRead && npm run imConv && next dev",
+    "dev": "npm run pdf2img && next dev",
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "nmRead": "node ./scripts/nameReader.js",
-    "imConv": "node ./scripts/pdfConversor.js"
+    "pdf2img": "node ./scripts/pdf2image.js"
   },
   "dependencies": {
     "fs-extra": "^11.1.1",
