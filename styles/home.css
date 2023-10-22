@@ -22,13 +22,14 @@
     box-sizing: border-box;
     font-family: ConcertOne, 'Open Sans', sans-serif;
     background-color: #161616;
-    height: 75vh;
-    max-height: 75vh;
+    height: auto;
+    display: flex;
+    flex-direction: column;
 }
 
 .home>ul{
     width: 100vw;
-    height: 100vh;
+    height: auto;
     display: flex;
     list-style: none;
     justify-content: center;

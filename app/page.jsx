@@ -1,29 +1,29 @@
 'use client';
 import "../styles/home.css";
-import Link from 'next/link';
+import { useState } from "react";
 import certificatesInfo from "../certificatesInfo.json";
-import Image from 'next/image';
+import { Miniature } from './components/miniature';
+import { Pagination } from "./components/pagination";
 
 export default function Home() {
+  const [currentPage, setCurrentPage] = useState(1);
+  const pagination = (page) => {
+    setCurrentPage(page);
+  }
+  const certsPerPage = 20;
+  const lastIndex = currentPage * certsPerPage;
+  const firsIndex = lastIndex - certsPerPage;
+  const currentCert = certificatesInfo.slice(firsIndex, lastIndex);
   return (
     <main className="home">
       <ul>
-        {certificatesInfo.map((c, i) => {
+        {currentCert.map((c, i) => {
           return (
-            <li key={i}>
-              <Link href={`viewpdf/${c.name}`}>
-                <Image
-                  src={`/miniatures/${c.name}.1.png`}
-                  width="150"
-                  height="150"
-                  alt={c.name}
-                />
-                <span>{c.name}</span>
-              </Link>
-            </li>
+            <Miniature key={i} c={c} />
           )
         })}
       </ul>
+      <Pagination allCert={certificatesInfo} pagination={pagination} currentPage={currentPage} />
     </main>
   )
 }
