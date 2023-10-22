@@ -1,166 +1,125 @@
 [
   {
-    "name": "Cisco - Aspectos básicos de las redes",
-    "img": "Cisco - Aspectos básicos de las redes.jpg"
+    "name": "Cisco - Aspectos básicos de las redes"
   },
   {
-    "name": "Cisco - Introducción a la ciberseguridad",
-    "img": "Cisco - Introducción a la ciberseguridad.jpg"
+    "name": "Cisco - Introducción a la ciberseguridad"
   },
   {
-    "name": "Cisco - PCAP - Programming Certificate Python Essentials",
-    "img": "Cisco - PCAP - Programming Certificate Python Essentials.jpg"
+    "name": "Cisco - PCAP - Programming Certificate Python Essentials"
   },
   {
-    "name": "FreeCodeCamp - Algoritmos en JavaScript y estructuras de datos",
-    "img": "FreeCodeCamp - Algoritmos en JavaScript y estructuras de datos.jpg"
+    "name": "FreeCodeCamp - Algoritmos en JavaScript y estructuras de datos"
   },
   {
-    "name": "FreeCodeCamp - Desarrollo web responsive",
-    "img": "FreeCodeCamp - Desarrollo web responsive.jpg"
+    "name": "FreeCodeCamp - Desarrollo web responsive"
   },
   {
-    "name": "Microsoft - Aplicaciones Web con Blazor",
-    "img": "Microsoft - Aplicaciones Web con Blazor.jpg"
+    "name": "Microsoft - Aplicaciones Web con Blazor"
   },
   {
-    "name": "Microsoft - Aplicaciones y servicios web con ASP.NET Core, API mínima y .NET",
-    "img": "Microsoft - Aplicaciones y servicios web con ASP.NET Core, API mínima y .NET.jpg"
+    "name": "Microsoft - Aplicaciones y servicios web con ASP.NET Core, API mínima y .NET"
   },
   {
-    "name": "Microsoft - Aspectos básicos de Azure Cosmos DB",
-    "img": "Microsoft - Aspectos básicos de Azure Cosmos DB.jpg"
+    "name": "Microsoft - Aspectos básicos de Azure Cosmos DB"
   },
   {
-    "name": "Microsoft - Aspectos básicos de la accesibilidad web",
-    "img": "Microsoft - Aspectos básicos de la accesibilidad web.jpg"
+    "name": "Microsoft - Aspectos básicos de la accesibilidad web"
   },
   {
-    "name": "Microsoft - Aspectos Básicos de los Datos con Microsoft Azure",
-    "img": "Microsoft - Aspectos Básicos de los Datos con Microsoft Azure.jpg"
+    "name": "Microsoft - Aspectos Básicos de los Datos con Microsoft Azure"
   },
   {
-    "name": "Microsoft - Azure Storage para datos no relacionales",
-    "img": "Microsoft - Azure Storage para datos no relacionales.jpg"
+    "name": "Microsoft - Azure Storage para datos no relacionales"
   },
   {
-    "name": "Microsoft - Compilación de API web mínima en ASP.NET Core",
-    "img": "Microsoft - Compilación de API web mínima en ASP.NET Core.jpg"
+    "name": "Microsoft - Compilación de API web mínima en ASP.NET Core"
   },
   {
-    "name": "Microsoft - Compilación de Aplicaciones JavaScript con TypeScript",
-    "img": "Microsoft - Compilación de Aplicaciones JavaScript con TypeScript.jpg"
+    "name": "Microsoft - Compilación de Aplicaciones JavaScript con TypeScript"
   },
   {
-    "name": "Microsoft - Compilación de Aplicaciones Web ASP.NET para Principiantes",
-    "img": "Microsoft - Compilación de Aplicaciones Web ASP.NET para Principiantes.jpg"
+    "name": "Microsoft - Compilación de Aplicaciones Web ASP.NET para Principiantes"
   },
   {
-    "name": "Microsoft - Conceptos fundamentales de datos relacionales",
-    "img": "Microsoft - Conceptos fundamentales de datos relacionales.jpg"
+    "name": "Microsoft - Conceptos fundamentales de datos relacionales"
   },
   {
-    "name": "Microsoft - Consumo de bases de datos mediante Entity Framework Core",
-    "img": "Microsoft - Consumo de bases de datos mediante Entity Framework Core.jpg"
+    "name": "Microsoft - Consumo de bases de datos mediante Entity Framework Core"
   },
   {
-    "name": "Microsoft - Creación de API web con controladores ASP.NET Core",
-    "img": "Microsoft - Creación de API web con controladores ASP.NET Core.jpg"
+    "name": "Microsoft - Creación de API web con controladores ASP.NET Core"
   },
   {
-    "name": "Microsoft - Creación de Aplicaciones en .NET con C#",
-    "img": "Microsoft - Creación de Aplicaciones en .NET con C#.jpg"
+    "name": "Microsoft - Creación de Aplicaciones en .NET con C-Sharp"
   },
   {
-    "name": "Microsoft - Creación de Aplicaciones Full Stack con React y ASP.NET Core",
-    "img": "Microsoft - Creación de Aplicaciones Full Stack con React y ASP.NET Core.jpg"
+    "name": "Microsoft - Creación de Aplicaciones Full Stack con React y ASP.NET Core"
   },
   {
-    "name": "Microsoft - Creación de aplicaciones web con Blazor",
-    "img": "Microsoft - Creación de aplicaciones web con Blazor.jpg"
+    "name": "Microsoft - Creación de aplicaciones web con Blazor"
   },
   {
-    "name": "Microsoft - Creación de Aplicaciones Web y Servicios con ASP.NET Core y API Mínima",
-    "img": "Microsoft - Creación de Aplicaciones Web y Servicios con ASP.NET Core y API Mínima.jpg"
+    "name": "Microsoft - Creación de Aplicaciones Web y Servicios con ASP.NET Core y API Mínima"
   },
   {
-    "name": "Microsoft - Creación de microservicios en .NET y ASP.NET",
-    "img": "Microsoft - Creación de microservicios en .NET y ASP.NET.jpg"
+    "name": "Microsoft - Creación de microservicios en .NET y ASP.NET"
   },
   {
-    "name": "Microsoft - Creación de microservicios en .NET",
-    "img": "Microsoft - Creación de microservicios en .NET.jpg"
+    "name": "Microsoft - Creación de microservicios en .NET"
   },
   {
-    "name": "Microsoft - Creación de videojuego en Blazor",
-    "img": "Microsoft - Creación de videojuego en Blazor.jpg"
+    "name": "Microsoft - Creación de videojuego en Blazor"
   },
   {
-    "name": "Microsoft - Exploración de roles y servicios de los datos",
-    "img": "Microsoft - Exploración de roles y servicios de los datos.jpg"
+    "name": "Microsoft - Exploración de roles y servicios de los datos"
   },
   {
-    "name": "Microsoft - Externalización de configuración con instancia de Azure Key Vault",
-    "img": "Microsoft - Externalización de configuración con instancia de Azure Key Vault.jpg"
+    "name": "Microsoft - Externalización de configuración con instancia de Azure Key Vault"
   },
   {
-    "name": "Microsoft - Manejo de datos no relacionales en Azure",
-    "img": "Microsoft - Manejo de datos no relacionales en Azure.jpg"
+    "name": "Microsoft - Manejo de datos no relacionales en Azure"
   },
   {
-    "name": "Microsoft - Manejo de datos relacionales en Azure",
-    "img": "Microsoft - Manejo de datos relacionales en Azure.jpg"
+    "name": "Microsoft - Manejo de datos relacionales en Azure"
   },
   {
-    "name": "Microsoft - Microservicio de .NET en Kubernetes",
-    "img": "Microsoft - Microservicio de .NET en Kubernetes.jpg"
+    "name": "Microsoft - Microservicio de .NET en Kubernetes"
   },
   {
-    "name": "Microsoft - Microservicios con ASP.NET Core y .NET",
-    "img": "Microsoft - Microservicios con ASP.NET Core y .NET.jpg"
+    "name": "Microsoft - Microservicios con ASP.NET Core y .NET"
   },
   {
-    "name": "Microsoft - Migración de una Aplicación de ASP.NET a Azure con Visual Studio",
-    "img": "Microsoft - Migración de una Aplicación de ASP.NET a Azure con Visual Studio.jpg"
+    "name": "Microsoft - Migración de una Aplicación de ASP.NET a Azure con Visual Studio"
   },
   {
-    "name": "Microsoft - Publicación de aplicaciones web en Azure con VS",
-    "img": "Microsoft - Publicación de aplicaciones web en Azure con VS.jpg"
+    "name": "Microsoft - Publicación de aplicaciones web en Azure con VS"
   },
   {
-    "name": "Microsoft - Servicios de bases de datos relacionales en Azure",
-    "img": "Microsoft - Servicios de bases de datos relacionales en Azure.jpg"
+    "name": "Microsoft - Servicios de bases de datos relacionales en Azure"
   },
   {
-    "name": "Oracle - Fundamentos de Java",
-    "img": "Oracle - Fundamentos de Java.jpg"
+    "name": "Oracle - Fundamentos de Java"
   },
   {
-    "name": "SENA - Acta Técnico en Sistemas",
-    "img": "SENA - Acta Técnico en Sistemas.jpg"
+    "name": "SENA - Acta Técnico en Sistemas"
   },
   {
-    "name": "SENA - Titulo Técnico en Sistemas",
-    "img": "SENA - Titulo Técnico en Sistemas.jpg"
+    "name": "SENA - Titulo Técnico en Sistemas"
   },
   {
-    "name": "SoyHenry - Full Stack Web Developer",
-    "img": "SoyHenry - Full Stack Web Developer.jpg"
+    "name": "SoyHenry - Full Stack Web Developer"
   },
   {
-    "name": "TodoCode - Bases de datos con MySQL",
-    "img": "TodoCode - Bases de datos con MySQL.jpg"
+    "name": "TodoCode - Bases de datos con MySQL"
   },
   {
-    "name": "TodoCode - Manejo de Git - GitHub",
-    "img": "TodoCode - Manejo de Git - GitHub.jpg"
+    "name": "TodoCode - Manejo de Git - GitHub"
   },
   {
-    "name": "UNAL - Desarrollo web con Html",
-    "img": "UNAL - Desarrollo web con Html.jpg"
+    "name": "UNAL - Desarrollo web con Html"
   },
   {
-    "name": "UNAL - Programación en Python",
-    "img": "UNAL - Programación en Python.jpg"
+    "name": "UNAL - Programación en Python"
   }
 ]
