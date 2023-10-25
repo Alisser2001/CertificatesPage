@@ -54,10 +54,8 @@
     list-style: none;
 }
 
-.homeLink,
-.aboutLink,
-.projectsLink,
-.contactLink {
+.portLink,
+.certLink {
     all: unset;
     width: 50%;
     height: 25vh;
@@ -83,10 +81,8 @@
     margin: 0;
 }
 
-.homeImg,
-.aboutImg,
-.projectsImg,
-.contactImg {
+.portImg,
+.certImg {
     width: 9vw;
     max-width: 9vw;
     height: 18vh;
@@ -117,10 +113,8 @@
         display: none;
     }
     
-    .homeLink,
-    .aboutLink,
-    .projectsLink,
-    .contactLink {
+    .portLink,
+    .certLink {
         height: 25vh;
         max-height: 25vh;
         width: 50%;
@@ -129,7 +123,7 @@
         justify-content: center;
     }
 
-    .homeLink {
+    .certLink {
         border-left: none;
     }
 
@@ -149,10 +143,8 @@
         align-items: center;
     }
 
-    .homeImg,
-    .aboutImg,
-    .projectsImg,
-    .contactImg {
+    .certImg,
+    .portImg {
         width: 25vw;
         max-width: 25vw;
         height: 15vh;
@@ -174,10 +166,8 @@
 }
 
 @media(max-width: 600px){
-    .homeImg,
-    .aboutImg,
-    .projectsImg,
-    .contactImg {
+    .portImg,
+    .certImg {
         width: 25vw;
         max-width: 25vw;
         height: 14vh;
