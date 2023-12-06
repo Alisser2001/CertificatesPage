@@ -10,6 +10,7 @@ export default function pdf({ params }) {
                 id="pdf-iframe"
                 width="1000px"
                 height="800px"
+                className="frame"
             />
         </div>
     )
