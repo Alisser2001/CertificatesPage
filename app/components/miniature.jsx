@@ -2,13 +2,14 @@
 import Link from 'next/link';
 import React, { useState } from 'react';
 import Image from 'next/image';
+import styles from "./miniature.module.css";
 
 export const Miniature = ({ c }) => {
     let fallbackSrc = "/item.png";
     const [imgSrc, setImgSrc] = useState("/miniatures/");
     return (
-        <li>
-            <Link href={`viewpdf/${c.name}`}>
+        <li className={styles.minContainer}>
+            <Link href={`viewpdf/${c.name}`} className={styles.miniature}>
                 <Image
                     width="280"
                     height="150"
@@ -22,8 +23,9 @@ export const Miniature = ({ c }) => {
                     onError={() => {
                         setImgSrc(fallbackSrc);
                     }}
+                    className={styles.minImg}
                 />
-                <span>{c.name}</span>
+                <span className={styles.title}>{c.name}</span>
             </Link>
         </li>
     )

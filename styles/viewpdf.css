@@ -1,12 +1,11 @@
 .container{
-    position: relative;
-    top: 30vh;
-    margin-bottom: 30vh;
+    width: 70vw;
+    max-width: 70vw;
+    margin: 25vh 15vw 15vh 15vw;
+    padding: 0;
+    height: auto;
     display: flex;
-    width: 100vw;
-    height: 100vh;
-    min-height: 75vh;
-    max-height: 150vh;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
 }

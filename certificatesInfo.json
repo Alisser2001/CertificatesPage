@@ -24,6 +24,18 @@
     "name": "FreeCodeCamp - Desarrollo web responsive"
   },
   {
+    "name": "Google Cloud - Cloud Computing Fundamentals"
+  },
+  {
+    "name": "Google Cloud - Create and Manage Cloud Resources"
+  },
+  {
+    "name": "Google Cloud - Infrastructure in Google Cloud"
+  },
+  {
+    "name": "Google Cloud - Infrastructure Modernization"
+  },
+  {
     "name": "Microsoft - Aplicaciones Web con Blazor"
   },
   {
@@ -42,6 +54,9 @@
     "name": "Microsoft - Azure Storage para datos no relacionales"
   },
   {
+    "name": "Microsoft - Codigo con Github CodeSpaces"
+  },
+  {
     "name": "Microsoft - Compilación de API web mínima en ASP.NET Core"
   },
   {
@@ -55,6 +70,9 @@
   },
   {
     "name": "Microsoft - Consumo de bases de datos mediante Entity Framework Core"
+  },
+  {
+    "name": "Microsoft - Control de versiones con Git"
   },
   {
     "name": "Microsoft - Creación de API web con controladores ASP.NET Core"
@@ -78,7 +96,13 @@
     "name": "Microsoft - Creación de microservicios en .NET"
   },
   {
+    "name": "Microsoft - Creación de minijuego en consola con GithubCopilot"
+  },
+  {
     "name": "Microsoft - Creación de videojuego en Blazor"
+  },
+  {
+    "name": "Microsoft - Código colaborativo con Git"
   },
   {
     "name": "Microsoft - Exploración de roles y servicios de los datos"
@@ -87,10 +111,19 @@
     "name": "Microsoft - Externalización de configuración con instancia de Azure Key Vault"
   },
   {
+    "name": "Microsoft - Funcionalidades de generación y análisis de imagenes con ImageAnalysis"
+  },
+  {
+    "name": "Microsoft - Github Cloud Skills"
+  },
+  {
     "name": "Microsoft - Manejo de datos no relacionales en Azure"
   },
   {
     "name": "Microsoft - Manejo de datos relacionales en Azure"
+  },
+  {
+    "name": "Microsoft - Manejo de ramas en Git"
   },
   {
     "name": "Microsoft - Microservicio de .NET en Kubernetes"
@@ -106,6 +139,12 @@
   },
   {
     "name": "Microsoft - Servicios de bases de datos relacionales en Azure"
+  },
+  {
+    "name": "Microsoft - Uso de Github Copilot con JavaScript"
+  },
+  {
+    "name": "Microsoft - Uso de Github Copilot con Python"
   },
   {
     "name": "Oracle - Fundamentos de Java"
