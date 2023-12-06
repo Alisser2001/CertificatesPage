@@ -26,8 +26,8 @@ export const Pagination = ({ allCert, certPerPage = 20, pagination, currentPage 
     }
 
     return (
-        <footer className={styles.cont}>
-            <ul className={styles.rows}>
+        <footer className={styles.footer}>
+            <ul className={styles.pagination}>
                 {pageNumbers && <>
                     <Image
                         width="70"
