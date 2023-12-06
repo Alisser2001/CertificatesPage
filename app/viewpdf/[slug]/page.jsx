@@ -8,7 +8,8 @@ export default function pdf({ params }) {
             <Iframe
                 url={`/assets/${params.slug}.pdf`}
                 id="pdf-iframe"
-                className="frame"
+                width="800px"
+                height="800px"
             />
         </div>
     )
