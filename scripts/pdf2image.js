@@ -35,15 +35,17 @@ fs.readdir(directoryPath, (err, files) => {
     const pdfFiles = files.filter(file => path.extname(file) === '.pdf');
     const jsonArray = pdfFiles.map(file => {
         const fileName = path.basename(file, '.pdf');
-        return { name: fileName };
+        const [platform, name] = fileName.split(' - ');
+        return { platform, name };
     });
     const jsonContent = JSON.stringify(jsonArray, null, 2);
     fs.writeFileSync(outputFile, jsonContent);
     pdfFiles.forEach(file => {
         const fileName = path.basename(file, '.pdf');
+        const [platform, name] = fileName.split(' - ');
         const options = {
             density: 100,
-            saveFilename: fileName,
+            saveFilename: name,
             savePath: outputFolder,
             format: 'png',
             width: 600,

@@ -1,173 +1,234 @@
 [
   {
-    "name": "Cisco - Aspectos básicos de las redes"
+    "platform": "Cisco",
+    "name": "Aspectos básicos de las redes"
   },
   {
-    "name": "Cisco - Introducción a la ciberseguridad"
+    "platform": "Cisco",
+    "name": "Introducción a la ciberseguridad"
   },
   {
-    "name": "Cisco - PCAP - Programming Certificate Python Essentials"
+    "platform": "Cisco",
+    "name": "PCAP"
   },
   {
-    "name": "EnganchaTIC - Ciberseguridad"
+    "platform": "EnganchaTIC",
+    "name": "Ciberseguridad"
   },
   {
-    "name": "EnganchaTIC - Data Science And IA"
+    "platform": "EnganchaTIC",
+    "name": "Data Science And IA"
   },
   {
-    "name": "EnganchaTIC - Programación Web"
+    "platform": "EnganchaTIC",
+    "name": "Programación Web"
   },
   {
-    "name": "FreeCodeCamp - Algoritmos en JavaScript y estructuras de datos"
+    "platform": "FreeCodeCamp",
+    "name": "Algoritmos en JavaScript y estructuras de datos"
   },
   {
-    "name": "FreeCodeCamp - Desarrollo web responsive"
+    "platform": "FreeCodeCamp",
+    "name": "Desarrollo web responsive"
   },
   {
-    "name": "Google Cloud - Cloud Computing Fundamentals"
+    "platform": "Google Cloud",
+    "name": "Cloud Computing Fundamentals"
   },
   {
-    "name": "Google Cloud - Create and Manage Cloud Resources"
+    "platform": "Google Cloud",
+    "name": "Create and Manage Cloud Resources"
   },
   {
-    "name": "Google Cloud - Infrastructure in Google Cloud"
+    "platform": "Google Cloud",
+    "name": "Infrastructure in Google Cloud"
   },
   {
-    "name": "Google Cloud - Infrastructure Modernization"
+    "platform": "Google Cloud",
+    "name": "Infrastructure Modernization"
   },
   {
-    "name": "Microsoft - Aplicaciones Web con Blazor"
+    "platform": "Microsoft",
+    "name": "Aplicaciones Web con Blazor"
   },
   {
-    "name": "Microsoft - Aplicaciones y servicios web con ASP.NET Core, API mínima y .NET"
+    "platform": "Microsoft",
+    "name": "Aplicaciones y servicios web con ASP.NET Core, API mínima y .NET"
   },
   {
-    "name": "Microsoft - Aspectos básicos de Azure Cosmos DB"
+    "platform": "Microsoft",
+    "name": "Aspectos básicos de Azure Cosmos DB"
   },
   {
-    "name": "Microsoft - Aspectos básicos de la accesibilidad web"
+    "platform": "Microsoft",
+    "name": "Aspectos básicos de la accesibilidad web"
   },
   {
-    "name": "Microsoft - Aspectos Básicos de los Datos con Microsoft Azure"
+    "platform": "Microsoft",
+    "name": "Aspectos Básicos de los Datos con Microsoft Azure"
   },
   {
-    "name": "Microsoft - Azure Storage para datos no relacionales"
+    "platform": "Microsoft",
+    "name": "Azure Storage para datos no relacionales"
   },
   {
-    "name": "Microsoft - Codigo con Github CodeSpaces"
+    "platform": "Microsoft",
+    "name": "Codigo con Github CodeSpaces"
   },
   {
-    "name": "Microsoft - Compilación de API web mínima en ASP.NET Core"
+    "platform": "Microsoft",
+    "name": "Compilación de API web mínima en ASP.NET Core"
   },
   {
-    "name": "Microsoft - Compilación de Aplicaciones JavaScript con TypeScript"
+    "platform": "Microsoft",
+    "name": "Compilación de Aplicaciones JavaScript con TypeScript"
   },
   {
-    "name": "Microsoft - Compilación de Aplicaciones Web ASP.NET para Principiantes"
+    "platform": "Microsoft",
+    "name": "Compilación de Aplicaciones Web ASP.NET para Principiantes"
   },
   {
-    "name": "Microsoft - Conceptos fundamentales de datos relacionales"
+    "platform": "Microsoft",
+    "name": "Conceptos fundamentales de datos relacionales"
   },
   {
-    "name": "Microsoft - Consumo de bases de datos mediante Entity Framework Core"
+    "platform": "Microsoft",
+    "name": "Consumo de bases de datos mediante Entity Framework Core"
   },
   {
-    "name": "Microsoft - Control de versiones con Git"
+    "platform": "Microsoft",
+    "name": "Control de versiones con Git"
   },
   {
-    "name": "Microsoft - Creación de API web con controladores ASP.NET Core"
+    "platform": "Microsoft",
+    "name": "Creación de API web con controladores ASP.NET Core"
   },
   {
-    "name": "Microsoft - Creación de Aplicaciones en .NET con C-Sharp"
+    "platform": "Microsoft",
+    "name": "Creación de Aplicaciones en .NET con C-Sharp"
   },
   {
-    "name": "Microsoft - Creación de Aplicaciones Full Stack con React y ASP.NET Core"
+    "platform": "Microsoft",
+    "name": "Creación de Aplicaciones Full Stack con React y ASP.NET Core"
   },
   {
-    "name": "Microsoft - Creación de aplicaciones web con Blazor"
+    "platform": "Microsoft",
+    "name": "Creación de aplicaciones web con Blazor"
   },
   {
-    "name": "Microsoft - Creación de Aplicaciones Web y Servicios con ASP.NET Core y API Mínima"
+    "platform": "Microsoft",
+    "name": "Creación de Aplicaciones Web y Servicios con ASP.NET Core y API Mínima"
   },
   {
-    "name": "Microsoft - Creación de microservicios en .NET y ASP.NET"
+    "platform": "Microsoft",
+    "name": "Creación de microservicios en .NET y ASP.NET"
   },
   {
-    "name": "Microsoft - Creación de microservicios en .NET"
+    "platform": "Microsoft",
+    "name": "Creación de microservicios en .NET"
   },
   {
-    "name": "Microsoft - Creación de minijuego en consola con GithubCopilot"
+    "platform": "Microsoft",
+    "name": "Creación de minijuego en consola con GithubCopilot"
   },
   {
-    "name": "Microsoft - Creación de videojuego en Blazor"
+    "platform": "Microsoft",
+    "name": "Creación de videojuego en Blazor"
   },
   {
-    "name": "Microsoft - Código colaborativo con Git"
+    "platform": "Microsoft",
+    "name": "Código colaborativo con Git"
   },
   {
-    "name": "Microsoft - Exploración de roles y servicios de los datos"
+    "platform": "Microsoft",
+    "name": "Exploración de roles y servicios de los datos"
   },
   {
-    "name": "Microsoft - Externalización de configuración con instancia de Azure Key Vault"
+    "platform": "Microsoft",
+    "name": "Externalización de configuración con instancia de Azure Key Vault"
   },
   {
-    "name": "Microsoft - Funcionalidades de generación y análisis de imagenes con ImageAnalysis"
+    "platform": "Microsoft",
+    "name": "Funcionalidades de generación y análisis de imagenes con ImageAnalysis"
   },
   {
-    "name": "Microsoft - Github Cloud Skills"
+    "platform": "Microsoft",
+    "name": "Github Cloud Skills"
   },
   {
-    "name": "Microsoft - Manejo de datos no relacionales en Azure"
+    "platform": "Microsoft",
+    "name": "Manejo de datos no relacionales en Azure"
   },
   {
-    "name": "Microsoft - Manejo de datos relacionales en Azure"
+    "platform": "Microsoft",
+    "name": "Manejo de datos relacionales en Azure"
   },
   {
-    "name": "Microsoft - Manejo de ramas en Git"
+    "platform": "Microsoft",
+    "name": "Manejo de ramas en Git"
   },
   {
-    "name": "Microsoft - Microservicio de .NET en Kubernetes"
+    "platform": "Microsoft",
+    "name": "Microservicio de .NET en Kubernetes"
   },
   {
-    "name": "Microsoft - Microservicios con ASP.NET Core y .NET"
+    "platform": "Microsoft",
+    "name": "Microservicios con ASP.NET Core y .NET"
   },
   {
-    "name": "Microsoft - Migración de una Aplicación de ASP.NET a Azure con Visual Studio"
+    "platform": "Microsoft",
+    "name": "Migración de una Aplicación de ASP.NET a Azure con Visual Studio"
   },
   {
-    "name": "Microsoft - Publicación de aplicaciones web en Azure con VS"
+    "platform": "Microsoft",
+    "name": "Publicación de aplicaciones web en Azure con VS"
   },
   {
-    "name": "Microsoft - Servicios de bases de datos relacionales en Azure"
+    "platform": "Microsoft",
+    "name": "Servicios de bases de datos relacionales en Azure"
   },
   {
-    "name": "Microsoft - Uso de Github Copilot con JavaScript"
+    "platform": "Microsoft",
+    "name": "Uso de Github Copilot con JavaScript"
   },
   {
-    "name": "Microsoft - Uso de Github Copilot con Python"
+    "platform": "Microsoft",
+    "name": "Uso de Github Copilot con Python"
   },
   {
-    "name": "Oracle - Fundamentos de Java"
+    "platform": "Oracle",
+    "name": "Fundamentos de Java"
   },
   {
-    "name": "SENA - Acta Técnico en Sistemas"
+    "platform": "SENA",
+    "name": "Acta Técnico en Sistemas"
   },
   {
-    "name": "SENA - Titulo Técnico en Sistemas"
+    "platform": "SENA",
+    "name": "Titulo Técnico en Sistemas"
   },
   {
-    "name": "SoyHenry - Full Stack Web Developer"
+    "platform": "SoyHenry",
+    "name": "Full Stack Web Developer"
   },
   {
-    "name": "TodoCode - Bases de datos con MySQL"
+    "platform": "TodoCode",
+    "name": "Bases de datos con MySQL"
   },
   {
-    "name": "TodoCode - Manejo de Git - GitHub"
+    "platform": "TodoCode",
+    "name": "Manejo de Git y GitHub"
   },
   {
-    "name": "UNAL - Desarrollo web con Html"
+    "platform": "TooEasyEnglish",
+    "name": "English A1 (Level 1)"
   },
   {
-    "name": "UNAL - Programación en Python"
+    "platform": "UNAL",
+    "name": "Desarrollo web con Html"
+  },
+  {
+    "platform": "UNAL",
+    "name": "Programación en Python"
   }
 ]
