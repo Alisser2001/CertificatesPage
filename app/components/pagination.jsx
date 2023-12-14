@@ -2,7 +2,7 @@
 import Image from "next/image";
 import styles from "./pagination.module.css";
 
-export const Pagination = ({ allCert, certPerPage = 20, pagination, currentPage }) => {
+export const Pagination = ({ allCert, certPerPage = 15, pagination, currentPage }) => {
     const pageNumbers = [];
     for (let i = 1; i <= Math.ceil(allCert.length / certPerPage); i++) {
         pageNumbers.push(i)
