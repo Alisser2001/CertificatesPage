@@ -9,7 +9,7 @@ export const Miniature = ({ c }) => {
     const [imgSrc, setImgSrc] = useState("/miniatures/");
     return (
         <li className={styles.minContainer}>
-            <Link href={`viewpdf/${c.name}`} className={styles.miniature}>
+            <Link href={`viewpdf/${c.platform} - ${c.name}`} className={styles.miniature}>
                 <Image
                     width="280"
                     height="150"
