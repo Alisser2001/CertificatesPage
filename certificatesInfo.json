@@ -33,6 +33,10 @@
   },
   {
     "platform": "Google Cloud",
+    "name": "Build and Secure Networks in Google Cloud"
+  },
+  {
+    "platform": "Google Cloud",
     "name": "Cloud Computing Fundamentals"
   },
   {
@@ -41,7 +45,15 @@
   },
   {
     "platform": "Google Cloud",
+    "name": "Google Cloud Computing Foundations Academy"
+  },
+  {
+    "platform": "Google Cloud",
     "name": "Infrastructure in Google Cloud"
+  },
+  {
+    "platform": "Google Cloud",
+    "name": "Networking and Security in Google Cloud"
   },
   {
     "platform": "Google Cloud",
