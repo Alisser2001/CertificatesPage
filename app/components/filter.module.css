@@ -41,3 +41,12 @@
     width: 20%;
     border-radius: 5vw;
 }
+
+@media(max-width: 900px){
+    .title{
+        margin: 0 1vw 0 5vw;
+    }
+    .selectPlatform{
+        width: 60%;
+    }
+}

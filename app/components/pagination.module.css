@@ -32,7 +32,6 @@
 .pagination>img{
     width: 18%;
     height: 45%;
-
 }
 
 .pagination>img:hover{
@@ -45,4 +44,21 @@
     color: white;
     font-family: ConcertOne;
     font-size: 1.5em;
+}
+
+@media(max-width: 900px){
+    .pagination>img{
+        width: 30%;
+        height: 45%;
+    }
+    .pagination>li{
+        font-size: 2.5em;
+    }
+}
+
+@media(max-width: 600px){
+    .pagination>img{
+        width: 40%;
+        height: 45%;
+    }
 }

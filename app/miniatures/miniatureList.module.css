@@ -19,3 +19,11 @@
     margin: 0%;
     padding: 0%;
 }
+
+@media(max-width: 900px){
+    .container{
+        width: 90vw;
+        max-width: 90vw;
+        margin: 15vh 5vw 0vh 5vw;
+    }
+}
