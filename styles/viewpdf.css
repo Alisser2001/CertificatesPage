@@ -9,3 +9,11 @@
     justify-content: center;
     align-items: center;
 }
+
+@media(max-width: 900px){
+    .container{
+        width: 90vw;
+        max-width: 90vw;
+        margin: 15vh 5vw 0 5vw;
+    }
+}

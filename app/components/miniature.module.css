@@ -43,3 +43,17 @@
     white-space: nowrap;
     text-overflow: ellipsis;
 }
+
+@media(max-width: 900px){
+    .minContainer{
+        width: 50%;
+        max-width: 50%;
+    }
+}
+
+@media(max-width: 600px){
+    .minContainer{
+        width: 100%;
+        max-width: 100%;
+    }
+}
