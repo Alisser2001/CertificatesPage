@@ -11,7 +11,7 @@ export default function Languages() {
             <ul className='w-full h-auto text-white justify-around items-start grid grid-cols-2 gap-10'>
                 {certificatesInfo.languages.map((c, i) => {
                     return (
-                        <a href={`viewpdf/${c.platform} - ${c.name}`} className="flex flex-col w-auto h-80 justify-center items-center bg-[#242424] rounded-md py-5 px-8 transform transition duration-300 hover:-translate-y-1">
+                        <a key={i} href={`viewpdf/${c.platform} - ${c.name}`} className="flex flex-col w-auto h-80 justify-center items-center bg-[#242424] rounded-md py-5 px-8 transform transition duration-300 hover:-translate-y-1">
                             <section className="flex flex-row justify-between items-center h-auto w-full">
                                 <img src="/folder.png" alt="repo" className="w-16 h-16" />
                                 <img src="/redirect.png" alt="project" className="w-10 h-10" />
