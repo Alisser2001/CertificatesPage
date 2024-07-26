@@ -1,254 +1,264 @@
-[
-  {
-    "platform": "Cisco",
-    "name": "Aspectos básicos de las redes"
-  },
-  {
-    "platform": "Cisco",
-    "name": "Introducción a la ciberseguridad"
-  },
-  {
-    "platform": "Cisco",
-    "name": "PCAP Programming Certificate Python Essentials"
-  },
-  {
-    "platform": "EnganchaTIC",
-    "name": "Ciberseguridad"
-  },
-  {
-    "platform": "EnganchaTIC",
-    "name": "Data Science And IA"
-  },
-  {
-    "platform": "EnganchaTIC",
-    "name": "Programación Web"
-  },
-  {
-    "platform": "FreeCodeCamp",
-    "name": "Algoritmos en JavaScript y estructuras de datos"
-  },
-  {
-    "platform": "FreeCodeCamp",
-    "name": "Desarrollo web responsive"
-  },
-  {
-    "platform": "Google Cloud",
-    "name": "Build and Secure Networks in Google Cloud"
-  },
-  {
-    "platform": "Google Cloud",
-    "name": "Cloud Computing Fundamentals"
-  },
-  {
-    "platform": "Google Cloud",
-    "name": "Create and Manage Cloud Resources"
-  },
-  {
-    "platform": "Google Cloud",
-    "name": "Google Cloud Computing Foundations Academy"
-  },
-  {
-    "platform": "Google Cloud",
-    "name": "Infrastructure in Google Cloud"
-  },
-  {
-    "platform": "Google Cloud",
-    "name": "Networking and Security in Google Cloud"
-  },
-  {
-    "platform": "Google Cloud",
-    "name": "Perform Foundational Infrastructure Tasks in Google Cloud"
-  },
-  {
-    "platform": "Microsoft",
-    "name": "Aplicaciones Web con Blazor"
-  },
-  {
-    "platform": "Microsoft",
-    "name": "Aplicaciones y servicios web con ASP.NET Core, API mínima y .NET"
-  },
-  {
-    "platform": "Microsoft",
-    "name": "Aspectos básicos de Azure Cosmos DB"
-  },
-  {
-    "platform": "Microsoft",
-    "name": "Aspectos básicos de la accesibilidad web"
-  },
-  {
-    "platform": "Microsoft",
-    "name": "Aspectos Básicos de los Datos con Microsoft Azure"
-  },
-  {
-    "platform": "Microsoft",
-    "name": "Azure Storage para datos no relacionales"
-  },
-  {
-    "platform": "Microsoft",
-    "name": "Codigo con Github CodeSpaces"
-  },
-  {
-    "platform": "Microsoft",
-    "name": "Compilación de API web mínima en ASP.NET Core"
-  },
-  {
-    "platform": "Microsoft",
-    "name": "Compilación de Aplicaciones JavaScript con TypeScript"
-  },
-  {
-    "platform": "Microsoft",
-    "name": "Compilación de Aplicaciones Web ASP.NET para Principiantes"
-  },
-  {
-    "platform": "Microsoft",
-    "name": "Conceptos fundamentales de datos relacionales"
-  },
-  {
-    "platform": "Microsoft",
-    "name": "Consumo de bases de datos mediante Entity Framework Core"
-  },
-  {
-    "platform": "Microsoft",
-    "name": "Control de versiones con Git"
-  },
-  {
-    "platform": "Microsoft",
-    "name": "Creación de API web con controladores ASP.NET Core"
-  },
-  {
-    "platform": "Microsoft",
-    "name": "Creación de Aplicaciones en .NET con C-Sharp"
-  },
-  {
-    "platform": "Microsoft",
-    "name": "Creación de Aplicaciones Full Stack con React y ASP.NET Core"
-  },
-  {
-    "platform": "Microsoft",
-    "name": "Creación de aplicaciones web con Blazor"
-  },
-  {
-    "platform": "Microsoft",
-    "name": "Creación de Aplicaciones Web y Servicios con ASP.NET Core y API Mínima"
-  },
-  {
-    "platform": "Microsoft",
-    "name": "Creación de microservicios en .NET y ASP.NET"
-  },
-  {
-    "platform": "Microsoft",
-    "name": "Creación de microservicios en .NET"
-  },
-  {
-    "platform": "Microsoft",
-    "name": "Creación de minijuego en consola con GithubCopilot"
-  },
-  {
-    "platform": "Microsoft",
-    "name": "Creación de videojuego en Blazor"
-  },
-  {
-    "platform": "Microsoft",
-    "name": "Código colaborativo con Git"
-  },
-  {
-    "platform": "Microsoft",
-    "name": "Exploración de roles y servicios de los datos"
-  },
-  {
-    "platform": "Microsoft",
-    "name": "Externalización de configuración con instancia de Azure Key Vault"
-  },
-  {
-    "platform": "Microsoft",
-    "name": "Funcionalidades de generación y análisis de imagenes con ImageAnalysis"
-  },
-  {
-    "platform": "Microsoft",
-    "name": "Github Cloud Skills"
-  },
-  {
-    "platform": "Microsoft",
-    "name": "Manejo de datos no relacionales en Azure"
-  },
-  {
-    "platform": "Microsoft",
-    "name": "Manejo de datos relacionales en Azure"
-  },
-  {
-    "platform": "Microsoft",
-    "name": "Manejo de ramas en Git"
-  },
-  {
-    "platform": "Microsoft",
-    "name": "Microservicio de .NET en Kubernetes"
-  },
-  {
-    "platform": "Microsoft",
-    "name": "Microservicios con ASP.NET Core y .NET"
-  },
-  {
-    "platform": "Microsoft",
-    "name": "Migración de una Aplicación de ASP.NET a Azure con Visual Studio"
-  },
-  {
-    "platform": "Microsoft",
-    "name": "Publicación de aplicaciones web en Azure con VS"
-  },
-  {
-    "platform": "Microsoft",
-    "name": "Servicios de bases de datos relacionales en Azure"
-  },
-  {
-    "platform": "Microsoft",
-    "name": "Uso de Github Copilot con JavaScript"
-  },
-  {
-    "platform": "Microsoft",
-    "name": "Uso de Github Copilot con Python"
-  },
-  {
-    "platform": "Oracle",
-    "name": "Fundamentos de Java"
-  },
-  {
-    "platform": "SENA",
-    "name": "Acta Técnico en Sistemas"
-  },
-  {
-    "platform": "SENA",
-    "name": "Titulo Técnico en Sistemas"
-  },
-  {
-    "platform": "SoyHenry",
-    "name": "Full Stack Web Developer"
-  },
-  {
-    "platform": "SoyHenry",
-    "name": "Upskilling Java"
-  },
-  {
-    "platform": "TodoCode",
-    "name": "Bases de datos con MySQL"
-  },
-  {
-    "platform": "TodoCode",
-    "name": "Manejo de Git y GitHub"
-  },
-  {
-    "platform": "TooEasyEnglish",
-    "name": "English A1 (Level 1)"
-  },
-  {
-    "platform": "TooEasyEnglish",
-    "name": "English A1 (Level 2)"
-  },
-  {
-    "platform": "UNAL",
-    "name": "Desarrollo web con Html"
-  },
-  {
-    "platform": "UNAL",
-    "name": "Programación en Python"
-  }
-]
+{
+  "webdev": [
+    {
+      "platform": "Cisco",
+      "name": "PCAP Programming Certificate Python Essentials"
+    },
+    {
+      "platform": "EnganchaTIC",
+      "name": "Data Science And IA"
+    },
+    {
+      "platform": "EnganchaTIC",
+      "name": "Programación Web"
+    },
+    {
+      "platform": "FreeCodeCamp",
+      "name": "Algoritmos en JavaScript y estructuras de datos"
+    },
+    {
+      "platform": "FreeCodeCamp",
+      "name": "Desarrollo web responsive"
+    },
+    {
+      "platform": "Microsoft",
+      "name": "Aplicaciones Web con Blazor"
+    },
+    {
+      "platform": "Microsoft",
+      "name": "Aplicaciones y servicios web con ASP.NET Core, API mínima y .NET"
+    },
+    {
+      "platform": "Microsoft",
+      "name": "Aspectos básicos de la accesibilidad web"
+    },
+    {
+      "platform": "Microsoft",
+      "name": "Codigo con Github CodeSpaces"
+    },
+    {
+      "platform": "Microsoft",
+      "name": "Compilación de API web mínima en ASP.NET Core"
+    },
+    {
+      "platform": "Microsoft",
+      "name": "Compilación de Aplicaciones JavaScript con TypeScript"
+    },
+    {
+      "platform": "Microsoft",
+      "name": "Compilación de Aplicaciones Web ASP.NET para Principiantes"
+    },
+    {
+      "platform": "Microsoft",
+      "name": "Consumo de bases de datos mediante Entity Framework Core"
+    },
+    {
+      "platform": "Microsoft",
+      "name": "Control de versiones con Git"
+    },
+    {
+      "platform": "Microsoft",
+      "name": "Creación de API web con controladores ASP.NET Core"
+    },
+    {
+      "platform": "Microsoft",
+      "name": "Creación de Aplicaciones en .NET con C-Sharp"
+    },
+    {
+      "platform": "Microsoft",
+      "name": "Creación de Aplicaciones Full Stack con React y ASP.NET Core"
+    },
+    {
+      "platform": "Microsoft",
+      "name": "Creación de aplicaciones web con Blazor"
+    },
+    {
+      "platform": "Microsoft",
+      "name": "Creación de Aplicaciones Web y Servicios con ASP.NET Core y API Mínima"
+    },
+    {
+      "platform": "Microsoft",
+      "name": "Creación de microservicios en .NET y ASP.NET"
+    },
+    {
+      "platform": "Microsoft",
+      "name": "Creación de microservicios en .NET"
+    },
+    {
+      "platform": "Microsoft",
+      "name": "Creación de minijuego en consola con GithubCopilot"
+    },
+    {
+      "platform": "Microsoft",
+      "name": "Creación de videojuego en Blazor"
+    },
+    {
+      "platform": "Microsoft",
+      "name": "Código colaborativo con Git"
+    },
+    {
+      "platform": "Microsoft",
+      "name": "Manejo de ramas en Git"
+    },
+    {
+      "platform": "Microsoft",
+      "name": "Microservicio de .NET en Kubernetes"
+    },
+    {
+      "platform": "Microsoft",
+      "name": "Microservicios con ASP.NET Core y .NET"
+    },
+    {
+      "platform": "Microsoft",
+      "name": "Migración de una Aplicación de ASP.NET a Azure con Visual Studio"
+    },
+    {
+      "platform": "Microsoft",
+      "name": "Publicación de aplicaciones web en Azure con VS"
+    },
+    {
+      "platform": "Microsoft",
+      "name": "Servicios de bases de datos relacionales en Azure"
+    },
+    {
+      "platform": "Microsoft",
+      "name": "Uso de Github Copilot con JavaScript"
+    },
+    {
+      "platform": "Microsoft",
+      "name": "Uso de Github Copilot con Python"
+    },
+    {
+      "platform": "Oracle",
+      "name": "Fundamentos de Java"
+    },
+    {
+      "platform": "SoyHenry",
+      "name": "Full Stack Web Developer"
+    },
+    {
+      "platform": "SoyHenry",
+      "name": "Upskilling Java"
+    },
+    {
+      "platform": "TodoCode",
+      "name": "Manejo de Git y GitHub"
+    },
+    {
+      "platform": "UNAL",
+      "name": "Desarrollo web con Html"
+    },
+    {
+      "platform": "UNAL",
+      "name": "Programación en Python"
+    }
+  ],
+  "cloud": [
+    {
+      "platform": "Google Cloud",
+      "name": "Build and Secure Networks in Google Cloud"
+    },
+    {
+      "platform": "Google Cloud",
+      "name": "Cloud Computing Fundamentals"
+    },
+    {
+      "platform": "Google Cloud",
+      "name": "Create and Manage Cloud Resources"
+    },
+    {
+      "platform": "Google Cloud",
+      "name": "Google Cloud Computing Foundations Academy"
+    },
+    {
+      "platform": "Google Cloud",
+      "name": "Infrastructure in Google Cloud"
+    },
+    {
+      "platform": "Google Cloud",
+      "name": "Networking and Security in Google Cloud"
+    },
+    {
+      "platform": "Google Cloud",
+      "name": "Perform Foundational Infrastructure Tasks in Google Cloud"
+    },
+    {
+      "platform": "Microsoft",
+      "name": "Externalización de configuración con instancia de Azure Key Vault"
+    },
+    {
+      "platform": "Microsoft",
+      "name": "Funcionalidades de generación y análisis de imagenes con ImageAnalysis"
+    },
+    {
+      "platform": "Microsoft",
+      "name": "Github Cloud Skills"
+    }
+  ],
+  "databases": [
+    {
+      "platform": "Microsoft",
+      "name": "Aspectos básicos de Azure Cosmos DB"
+    },
+    {
+      "platform": "Microsoft",
+      "name": "Aspectos Básicos de los Datos con Microsoft Azure"
+    },
+    {
+      "platform": "Microsoft",
+      "name": "Azure Storage para datos no relacionales"
+    },
+    {
+      "platform": "Microsoft",
+      "name": "Conceptos fundamentales de datos relacionales"
+    },
+    {
+      "platform": "Microsoft",
+      "name": "Exploración de roles y servicios de los datos"
+    },
+    {
+      "platform": "Microsoft",
+      "name": "Manejo de datos no relacionales en Azure"
+    },
+    {
+      "platform": "Microsoft",
+      "name": "Manejo de datos relacionales en Azure"
+    },
+    {
+      "platform": "TodoCode",
+      "name": "Bases de datos con MySQL"
+    }
+  ],
+  "networks": [
+    {
+      "platform": "Cisco",
+      "name": "Aspectos básicos de las redes"
+    },
+    {
+      "platform": "Cisco",
+      "name": "Introducción a la ciberseguridad"
+    },
+    {
+      "platform": "EnganchaTIC",
+      "name": "Ciberseguridad"
+    },
+    {
+      "platform": "SENA",
+      "name": "Acta Técnico en Sistemas"
+    },
+    {
+      "platform": "SENA",
+      "name": "Titulo Técnico en Sistemas"
+    }
+  ],
+  "languages": [
+    {
+      "platform": "TooEasyEnglish",
+      "name": "English A1 (Level 1)"
+    },
+    {
+      "platform": "TooEasyEnglish",
+      "name": "English A1 (Level 2)"
+    }
+  ]
+}
