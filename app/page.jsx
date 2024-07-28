@@ -1,5 +1,4 @@
 'use client';
-import "../styles/home.css";
 import Hero from "./sections/hero";
 import Footer from "./sections/footer";
 import WebDevelopment from "./sections/webdev";

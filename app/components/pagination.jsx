@@ -1,6 +1,5 @@
 "use client"
 import Image from "next/image";
-import styles from "./pagination.module.css";
 
 export const Pagination = ({ allCert, currentCert, certPerPage = 15, pagination, currentPage }) => {
     const pageNumbers = [];

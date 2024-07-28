@@ -1,5 +1,4 @@
 "use client"
-import styles from "./filter.module.css";
 import certificates from "../../certificatesInfo.json";
 
 export const Filter = ({ filter, pagination }) => {
