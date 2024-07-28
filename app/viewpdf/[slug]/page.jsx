@@ -3,7 +3,7 @@ import Iframe from 'react-iframe';
 import { useRef } from "react";
 import {useIsVisible} from "../../../hooks/useIsVisible";
 
-export default function pdf({ params }) {
+export default function Pdf({ params }) {
     const refAbout = useRef();
     const isVisibleAbout = useIsVisible(refAbout);
     return (
