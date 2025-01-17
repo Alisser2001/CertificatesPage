@@ -12,9 +12,9 @@ export default function Card({info}) {
                 A single page web app for helping me choose where to travel, built with Next.js, Firebase, and Tailwind CSS
             </p>
             <ul className="flex flex-row justify-between items-center w-full h-auto mt-5 flex-wrap">
-                <li key={idx + Math.random()*(1000000-1)+1} className='flex flex-row w-auto mr-5 h-8 justify-start items-center text-base font-bold'><span className='mr-3 border-l-[8px] border-l-[#2E28A0] border-y-[4px] border-y-transparent border-solid'></span>JavaScript</li>
-                <li key={idx + Math.random()*(1000000-1)+1} className='flex flex-row w-auto mr-5 h-8 justify-start items-center text-base font-bold'><span className='mr-3 border-l-[8px] border-l-[#2E28A0] border-y-[4px] border-y-transparent border-solid'></span>Networks</li>
-                <li key={idx + Math.random()*(1000000-1)+1} className='flex flex-row w-auto mr-5 h-8 justify-start items-center text-base font-bold'><span className='mr-3 border-l-[8px] border-l-[#2E28A0] border-y-[4px] border-y-transparent border-solid'></span>Tailwind</li>
+                <li key={Math.random()*(1000000-1)+1} className='flex flex-row w-auto mr-5 h-8 justify-start items-center text-base font-bold'><span className='mr-3 border-l-[8px] border-l-[#2E28A0] border-y-[4px] border-y-transparent border-solid'></span>JavaScript</li>
+                <li key={Math.random()*(1000000-1)+1} className='flex flex-row w-auto mr-5 h-8 justify-start items-center text-base font-bold'><span className='mr-3 border-l-[8px] border-l-[#2E28A0] border-y-[4px] border-y-transparent border-solid'></span>Networks</li>
+                <li key={Math.random()*(1000000-1)+1} className='flex flex-row w-auto mr-5 h-8 justify-start items-center text-base font-bold'><span className='mr-3 border-l-[8px] border-l-[#2E28A0] border-y-[4px] border-y-transparent border-solid'></span>Tailwind</li>
             </ul>
         </a>
     )
