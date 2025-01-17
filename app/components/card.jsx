@@ -1,8 +1,8 @@
 'use client';
 
-export default function Card({info, idx}) {
+export default function Card({info}) {
     return (
-        <a key={idx + Math.random()*(1000000-1)+1} href={`viewpdf/${info.platform} - ${info.name}`} className="flex flex-col w-full md:w-auto h-auto md:h-[400px] lg:h-[350px] justify-center items-center bg-[#242424] rounded-md py-5 px-8 transform transition duration-300 hover:-translate-y-1">
+        <a href={`viewpdf/${info.platform} - ${info.name}`} className="flex flex-col w-full md:w-auto h-auto md:h-[400px] lg:h-[350px] justify-center items-center bg-[#242424] rounded-md py-5 px-8 transform transition duration-300 hover:-translate-y-1">
             <section className="flex flex-row justify-between items-center h-auto w-full">
                 <img src="/folder.png" alt="repo" className="w-16 h-16" />
             </section>
