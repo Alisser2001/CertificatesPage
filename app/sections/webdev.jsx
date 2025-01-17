@@ -17,7 +17,7 @@ export default function WebDevelopment({certificatesInfo}) {
             <ul className='w-full h-auto text-white justify-around items-start flex flex-col md:grid md:grid-cols-2 gap-10'>
                 {actualItems.map((c, i) => {
                     return (
-                        <Card info={c} key={idx + Math.random()*(1000000-1)+1}/>
+                        <Card info={c} key={i + Math.random()*(1000000-1)+1}/>
                     )
                 })}
             </ul>
